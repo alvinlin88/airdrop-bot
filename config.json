@@ -1,0 +1,8 @@
+{
+    "token" : "YOUR BOT TOKEN",
+    "admins" : ["ADMIN USERNAMES (ARRAY)"],
+    "intro" : "YOUR INTRO HERE",
+    "botname" :"YOUR BOT NAME HERE",
+    "signup" : SIGNUP BONUS (NUMBER),
+    "ref" : REFERRAL BONUS (NUMBER)
+}
