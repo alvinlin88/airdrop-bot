@@ -1,1 +1,3 @@
 airdrop-bot
+
+instructions soon
